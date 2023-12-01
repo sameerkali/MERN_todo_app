@@ -1,0 +1,5 @@
+git-
+  git remote add origin git@github.com:sameerkali/MERN_todo_app.git
+  git branch -M main
+  git push -u origin main
+
